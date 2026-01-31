@@ -1,4 +1,4 @@
-body { font-family: Arial; padding: 20px; }
-ul { list-style: none; padding: 0; }
+body { font-family: Arial; padding: 20px;background-color: cadetblue; }
+ul { list-style: none; padding: 0; color: rgb(93, 0, 180);}
 li { margin: 5px 0; }
 .done { text-decoration: line-through; color: gray; }
