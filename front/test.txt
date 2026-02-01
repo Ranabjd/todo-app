@@ -1,3 +1,1 @@
-echo "Ceci est un test Git fait par  ahmed et rana  "  
-
-ligne 2
+echo "Ceci est un test Git fait par  ahmed et rana ligne 
